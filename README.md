@@ -8,11 +8,14 @@
 进修中
 ## 📊 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LchuanAkane&layout=compact&theme=tokyonight)
       ![访问者](https://visitor-badge.glitch.me/badge?page_id=LchuanAkane.LchuanAkane)
+      ![Akane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChuanAkane&show_icons=true&theme=tokyonight)
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuanAkane&layout=compact&theme=tokyonight)
+      ![Visitors](https://komarev.com/ghpvc/?username=ChuanAkane&color=blue)
 
 ## 🌐 联系我
 📧 Email: 1243718262@qq.com
-[![B站主页](https://img.shields.io/bili-主页-ff69b4?logo=bilibili)](https://space.bilibili.com/你的UID)badge/Bili
+[![B站主页](https://img.shields.io/bili-主页-ff69b4?logo=bilibili)](https://space.bilibili.com/22646819)badge/Bili
 小蓝鸟：https://x.com/documentwrite_?s=21
 ### WeChat：
-< img src="C:\Users\12437\Desktop\lxfs.jpg" width="200"/>
+< img src="C:/Users/12437/Desktop/lxfs.jpg" width="200"/>
 
