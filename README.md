@@ -7,11 +7,14 @@
 ## 🛠 技术栈 / Skills
 进修中
 ## 📊 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LchuanAkane&layout=compact&theme=tokyonight)
+<h1 align="center">
+  Hi, I'm Chuan 👋
+  <br>
+  < img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=380&lines=Welcome+to+my+profile!;Frontend+Developer;Always+learning..." />
+</h1>
 
 ## 🌐 联系我
 📧 Email: 1243718262@qq.com
    [![B站主页](https://img.shields.io/bili-主页-ff69b4?logo=bilibili)](https://space.bilibili.com/22646819)badge/Bili
-   小蓝鸟：https://x.com/documentwrite_?s=21
-### WeChat：
-<img src="C:/Users/12437/Desktop/LaTeXProject/lxfs.jpg" width="200"/>
+
 
