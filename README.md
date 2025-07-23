@@ -14,8 +14,8 @@
 
 ## 🌐 联系我
 📧 Email: 1243718262@qq.com
-[![B站主页](https://img.shields.io/bili-主页-ff69b4?logo=bilibili)](https://space.bilibili.com/22646819)badge/Bili
-小蓝鸟：https://x.com/documentwrite_?s=21
+   [![B站主页](https://img.shields.io/bili-主页-ff69b4?logo=bilibili)](https://space.bilibili.com/22646819)badge/Bili
+   小蓝鸟：https://x.com/documentwrite_?s=21
 ### WeChat：
 <img src="lxfs.jpg" width="200"/>
 
