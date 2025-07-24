@@ -10,6 +10,7 @@
 
 ## 🌐 联系我
 📧 Email: 1243718262@qq.com
-   [![B站主页](https://img.shields.io/bili-主页-ff69b4?logo=bilibili)](https://space.bilibili.com/22646819)badge/Bili
 
-
+<picture>
+  <img alt="Shows" src="images\4.jpg">
+</picture>
