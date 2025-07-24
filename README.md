@@ -11,6 +11,4 @@
 ## 🌐 联系我
 📧 Email: 1243718262@qq.com
 
-<picture>
-  <img alt="Shows" src="images\4.jpg">
-</picture>
+  ![我的图片](images/4.jpg)
