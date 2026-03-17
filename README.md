@@ -9,4 +9,4 @@
 ## 📊 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LchuanAkane&layout=compact&theme=tokyonight)
 
 ## 🌐 联系我
-📧 aikawaakane@gmali.com
+📧 aikawaakane09@gmali.com
